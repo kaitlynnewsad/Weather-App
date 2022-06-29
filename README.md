@@ -1,6 +1,6 @@
 # Weather App
 
-Created a website that when you enter a name of a city will give the current temperature, type of weather, and the high and low temperature for the day.
+Created a website that when you enter a name of a city will give the current temperature, type of weather, and the high and low temperature for the day. Also, will give your the date.
 I used an API key from OpenWeather to get the weather data. I used HTML, CSS, and JavaScript to create the weather app.
 
 Picture of Website:
