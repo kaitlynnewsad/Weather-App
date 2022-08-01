@@ -7,7 +7,8 @@ Live Demo:
 https://peppy-biscotti-29cfca.netlify.app/
 
 Picture of Website:
-<img width="1289" alt="Screen Shot 2022-06-23 at 11 10 17 AM" src="https://user-images.githubusercontent.com/56359938/175333664-a7608fd4-39a5-4db8-8b2e-26645a63dd74.png">
+<img width="1449" alt="Screen Shot 2022-08-01 at 2 59 57 PM" src="https://user-images.githubusercontent.com/56359938/182224096-90874392-3430-459e-8f83-37c29c8a6879.png">
+
 
 
 Sources:
